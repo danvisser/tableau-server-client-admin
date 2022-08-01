@@ -1,0 +1,3 @@
+[submodule "tsc_examples"]
+	path = tsc_examples
+	url = https://github.com/bryceglarsen/tsc-examples.git
